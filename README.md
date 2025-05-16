@@ -18,7 +18,7 @@
 
 - 💻 Computer Engineering Student at <a href="https://en.feng.bu.edu.eg/"> Benha University Faculty of Engineering at Shoubra.</a>
 
-- 💻 ECPC Finalist <https://github.com/ahmedbahy2026/ECPC-Finalist> 2025-ICPC Egyptian CPC-Ahmed Bahy Youssef-PLACE.</a>
+- 💻 ECPC Finalist <https://github.com/ahmedbahyyoussef/ECPC-Finalist> 2025-ICPC Egyptian CPC-Ahmed Bahy Youssef-PLACE.</a>
 <!--Intro end-->
 
 
